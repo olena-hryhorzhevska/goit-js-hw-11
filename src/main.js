@@ -22,3 +22,4 @@ function handleSubmit(event) {
     })
     .finally(() => hideLoader());
 }
+
